@@ -1,0 +1,19 @@
+html, body {
+  min-height: 100%;
+  
+  background-color: hsla(181, 75%, 90%, 1);
+  font-weight: 300;
+  line-height: 1.5;
+}
+div {
+width: 75%;
+height: 75%;
+margin-left: auto;
+margin-right: auto;
+}
+
+h1 {
+font-size: 90px;
+}
+
+
